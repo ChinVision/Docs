@@ -1,4 +1,4 @@
-- [**首页**](https://chinvision.github.io/StudyDocs/#/)
+- [**首页**](https://chinvision.github.io/Docs/#/)
 - **学习视频**
   - [**哔哩哔哩(凑合)**](https://space.bilibili.com/390094937)
 - **其他文档**
