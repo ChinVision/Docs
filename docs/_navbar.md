@@ -3,5 +3,5 @@
   - [**哔哩哔哩(凑合)**](https://space.bilibili.com/390094937)
 - **其他内容**
   - [**知乎(未完成)**](https://www.zhihu.com/people/chen-da-bao-27-95)
-  - [**公众号**]()
+  - [**公众号**](Other/公众号)
 - [**GitHub**](https://github.com/ChinVision)
