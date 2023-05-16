@@ -7,6 +7,12 @@
     <meta name="description" content="Description">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+    <style>
+        :root {
+            --docsifytabs-border-color: #ededed;
+            --docsifytabs-tab-highlight-color: purple;
+        }
+    </style>
 </head>
 <body>
     <div id="app"></div>
@@ -35,8 +41,14 @@
                 depth: 3,
                 maxAge: 86400000, // 过期时间，单位毫秒，默认一天
             },
-            // PDF显示
-
+            // Tabs显示
+            tabs: {
+                persist: true,      // default
+                sync: true,      // default
+                theme: 'classic', // default
+                tabComments: true,      // default
+                tabHeadings: true       // default
+            }
 
 
         }
@@ -49,6 +61,8 @@
     <!--两列插件-->>
     <script src="https://chinvision.github.io/Docs/plugins/docsify-slides.min.js"></script>
     <script src="https://chinvision.github.io/Docs/plugins/docsify-example-panels.js"></script>
+    <!--Tab插件-->>
+    <script src="https://chinvision.github.io/Docs/plugins/docsify-tabs@1"></script>
 
     <!--搜索插件-->
     <script src="https://chinvision.github.io/Docs/plugins/search.min.js"></script>
@@ -81,5 +95,5 @@
     <!-- mouse click -->
     <script src="https://chinvision.github.io/Docs/plugins/click_heart.js"></script>
 
-    </bodybackground="夕阳余晖.jpg">
+    </body>
 </html>

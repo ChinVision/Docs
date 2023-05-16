@@ -1,4 +1,3 @@
- <!-- panels:start -->
 # 个人的学习笔记库 <!-- {docsify-ignore-all} -->
 ### Introduction
 >! 在这里你可以找到我所学的全部知识！统统拿走~
@@ -21,8 +20,23 @@
 - 测试s
 
 
+<!-- tabs:start -->
 
->! 占位
+#### **English**
+
+Hello!
+
+#### **French**
+
+Bonjour!
+
+#### **Italian**
+
+Ciao!
+
+<!-- tabs:end -->
+
+
 
 >! 占位
 
@@ -55,17 +69,3 @@
 
 print('hello')
 ```
-
-<!-- div:title-panel -->
-
-## Demo
-
-<!-- div:left-panel -->
-
-If you are on widescreen, checkout t
-
-<!-- div:right-panel -->
-
-This is an example panel.
-
-<!-- panels:end -->
