@@ -1,4 +1,19 @@
 # Schrodinger教程
+ <!-- panels:start -->
+
+
+<!-- div:title-panel -->
+
+### 小分子准备
+---
+<!-- div:left-panel -->
+
+<!-- div:right-panel -->
+加载的图片
+![Chinvision's公众号](https://github.com/ChinVision/Docs/raw/master/docs/media/WX.jpg)
+
+
+
 
 # 加载蛋白质
 ## 一、通过点击File>GetPDB下载单个pdb文件
@@ -75,3 +90,4 @@ if __name__ == '__main__':
     fails.writelines(fail_listi)
     fails.clos()
 ```
+<!-- panels:end -->

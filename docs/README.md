@@ -1,14 +1,26 @@
+ <!-- panels:start -->
 # 个人的学习笔记库 <!-- {docsify-ignore-all} -->
 ### Introduction
 >! 在这里你可以找到我所学的全部知识！统统拿走~
 
->! 占位
+!> 强调内容
 
->! 占位
+?> 普通提示
 
->! 占位
 
->! 占位
+>! 原始Markdown提示
+
+### 任务列表
+- [ ] 任务1
+- [x] 任务2
+- [] 任务3 
+    - [x] bim
+    - [ ] lim
+
+
+- 测试s
+
+
 
 >! 占位
 
@@ -44,3 +56,16 @@
 print('hello')
 ```
 
+<!-- div:title-panel -->
+
+## Demo
+
+<!-- div:left-panel -->
+
+If you are on widescreen, checkout t
+
+<!-- div:right-panel -->
+
+This is an example panel.
+
+<!-- panels:end -->
