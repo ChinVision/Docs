@@ -25,11 +25,20 @@
 
 ## `torchmetrics`包的用法
 
+# 准确率(Accuracy)
+预测对的，占总样本的比例
+
+
+
 # 精确率(Precision)
+
+
 
 # 召回率(Recall)
 
 # IOU
+
+
 # PRC
 # ROC
 # AUC
